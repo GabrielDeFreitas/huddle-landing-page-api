@@ -30,6 +30,10 @@
       "component": "pages.social-links",
       "required": true,
       "min": 3
+    },
+    "copyright": {
+      "type": "string",
+      "required": true
     }
   }
 }
