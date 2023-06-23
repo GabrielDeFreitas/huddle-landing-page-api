@@ -23,7 +23,7 @@
       "min": 3,
       "max": 10
     },
-    "SocialLinks": {
+    "socialLinks": {
       "displayName": "SocialLinks",
       "type": "component",
       "repeatable": true,
@@ -34,6 +34,14 @@
     "copyright": {
       "type": "string",
       "required": true
+    },
+    "aboutUs": {
+      "displayName": "aboutUs",
+      "type": "component",
+      "repeatable": true,
+      "component": "pages.about-us",
+      "required": true,
+      "min": 3
     }
   }
 }
