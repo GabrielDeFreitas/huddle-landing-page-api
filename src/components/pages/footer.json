@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_pages_footers",
+  "info": {
+    "displayName": "Footer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "contacts": {
+      "displayName": "contacts",
+      "type": "component",
+      "repeatable": true,
+      "component": "pages.contacts",
+      "required": true,
+      "min": 3,
+      "max": 10
+    },
+    "SocialLinks": {
+      "displayName": "SocialLinks",
+      "type": "component",
+      "repeatable": true,
+      "component": "pages.social-links",
+      "required": true,
+      "min": 3
+    }
+  }
+}

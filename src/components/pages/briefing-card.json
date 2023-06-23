@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_pages_briefing_cards",
+  "info": {
+    "displayName": "briefingCard"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}

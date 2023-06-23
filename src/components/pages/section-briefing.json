@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_pages_section_briefings",
+  "info": {
+    "displayName": "SectionBriefing"
+  },
+  "options": {},
+  "attributes": {
+    "briefingCard": {
+      "displayName": "briefingCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "pages.briefing-card",
+      "required": true,
+      "min": 2,
+      "max": 4
+    }
+  }
+}

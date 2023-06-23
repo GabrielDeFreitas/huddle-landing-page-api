@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_pages_section_get_starteds",
+  "info": {
+    "displayName": "SectionGetStarted"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "pages.button",
+      "required": true
+    }
+  }
+}

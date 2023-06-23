@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_pages_contacts",
+  "info": {
+    "displayName": "contacts"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": false
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
