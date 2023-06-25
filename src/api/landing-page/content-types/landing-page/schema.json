@@ -12,34 +12,34 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Logo": {
+    "logo": {
       "displayName": "Logo",
       "type": "component",
       "repeatable": false,
       "component": "pages.logo",
       "required": true
     },
-    "Header": {
+    "header": {
       "displayName": "Header",
       "type": "component",
       "repeatable": false,
       "component": "pages.header",
       "required": true
     },
-    "SectionBriefing": {
+    "sectionBriefing": {
       "displayName": "SectionBriefing",
       "type": "component",
       "repeatable": false,
       "component": "pages.section-briefing"
     },
-    "SectionGetStarted": {
+    "sectionGetStarted": {
       "displayName": "SectionGetStarted",
       "type": "component",
       "repeatable": false,
       "component": "pages.section-get-started",
       "required": true
     },
-    "Footer": {
+    "footer": {
       "displayName": "Footer",
       "type": "component",
       "repeatable": false,
