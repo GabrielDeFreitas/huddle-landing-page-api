@@ -1,3 +1,7 @@
+# Huddle Landing Page Api
+
+This is the API to create the [Huddle-Landing-Page-Front-End](https://github.com/GabrielDeFreitas/huddle-landing-page-front-end).
+
 ## Requirements
 
 This project uses [PostgreSQL](https://www.postgresql.org/), so, in order to make it working, install in your local machine or use Docker.
